@@ -63,7 +63,6 @@ h6 {
   overflow-wrap: break-word;
 }
 
-
 :root {
   --clr-primary-400: hsl(246, 80%, 60%);
   --clr-primary-900: hsl(226, 43%, 10%);
@@ -94,11 +93,9 @@ h6 {
   --fw-regular: 400;
   --fw-medium: 500;
 
-
   --border-radius: 1rem;
   --padding-main: 1.5rem;
 }
-
 
 .bg-primary-400 {
   background-color: var(--clr-primary-400);
@@ -305,28 +302,28 @@ main {
 }
 
 .work-card .card-top {
-  background-image: url(../images/icon-work.svg);
+  background-image: url(./images/icon-work.svg);
 }
 
 .play-card .card-top {
-  background-image: url(../images/icon-play.svg);
+  background-image: url(./images/icon-play.svg);
 }
 
 .study-card .card-top {
-  background-image: url(../images/icon-study.svg);
+  background-image: url(./images/icon-study.svg);
 }
 
 .exercise-card .card-top {
-  background-image: url(../images/icon-exercise.svg);
+  background-image: url(./images/icon-exercise.svg);
   background-position: right 0 top 0;
 }
 
 .social-card .card-top {
-  background-image: url(../images/icon-social.svg);
+  background-image: url(./images/icon-social.svg);
 }
 
 .self-care-card .card-top {
-  background-image: url(../images/icon-self-care.svg);
+  background-image: url(./images/icon-self-care.svg);
 }
 
 .card-bottom-header {
